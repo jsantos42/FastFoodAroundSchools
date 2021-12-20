@@ -1,5 +1,7 @@
 # Fast Food and Schools in Portugal
 
+(please note the code of Goal#3 is not cleaned/commented and the R part has not been uploaded yet)
+
 This repository contains the code I wrote for the thesis of my Master in Clinical Nutrition.
 Below are the graphic results I obtained.
 
