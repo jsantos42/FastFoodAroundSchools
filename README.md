@@ -27,5 +27,5 @@ How accessible is fast-food to Portuguese school-aged children, around their sch
 
 ## GOAL #3 Find whether the fast-food restaurants cluster around schools  or their location is spatially-independent.
 
-![goal3-1](imgs/goal3-1.png)
-![goal3-2](imgs/goal3-2.png)
+![goal3-1](imgs/goal3a.jpg)
+![goal3-2](imgs/goal3b.jpg)
