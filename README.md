@@ -2,7 +2,7 @@
 
 This repository contains the code I wrote for the thesis of my Master in Clinical Nutrition.
 Below are the graphic results I obtained.
-(note: the code of Goal#3 is not cleaned/commented and the R part has not been uploaded yet)
+\n(note: the code of Goal#3 is not cleaned/commented and the R part has not been uploaded yet)
 
 ## Major question of the study:
 How accessible is fast-food to Portuguese school-aged children, around their schools?
