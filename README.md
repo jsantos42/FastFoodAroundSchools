@@ -20,7 +20,7 @@ How accessible is fast-food to Portuguese school-aged children, around their sch
 
 
 
-## GOAL #2 Calculate the distance between each school and its closest fast-food restaurant, and identify the regions where that distance is smaller.
+## GOAL #2 Calculate how many restaurants are within 5 and 10min walking distance from each school, and identify the regions where this number is higher.
 
 ![goal2](imgs/goal2.png)
 
